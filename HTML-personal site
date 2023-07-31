@@ -1,0 +1,114 @@
+c<DOCTYPE html>
+    <html> 
+        <head>
+            <meta charset="utf-8">
+            <title>💙 Aman 💙</title>
+             </head>
+             <body>
+                <table cellspacing="20" border="2pixel" >
+                    <tr>
+                        <td><img src="image/human.png" alt="Aman's profile picture"></td>
+                            <td><H1>Amanuel.T</H1>
+                                <var><em><strong>Chapi{ATG}</strong></em></var>
+                                <p><em>Founder and CTO of <strong> <a href="https://Instagram.com/">Instagram</a> </strong></em></p>
+                                <P>I am Chapi who is Ethiopian Minstry exam record wisher. I was borm in Addis Ababa,Ethiopia.I am best in my academic results.My highest average is 100%. And I wish that I will be success-ful in my future life. Let me show you some of my life elements :-</P>
+                                <hr</td>
+                    </tr>
+                </table>
+                <hr color="Indigo" size="4">
+                <h3><strong>Teacher's Name</strong> </h3>
+                <ul>
+                    <li><em><strong>Temesgen</strong></em></li>
+                    <li>Daniel</li>
+                    <li>Birhanu</li>
+                    <li>Fikadu</li>
+                    <li>Mekdes</li>
+                    <li>Derese</li>
+                    <li>Zelalem</li>
+                    <li>Nati</li>
+                    <li>Aregaheny</li>
+                    <li>Yirga</li>
+                </ul>
+                <hr size="4" color="blue">
+                <h3><em>Friends' name</em></h3>
+                <ol>
+                    <li>Abidara</li>
+                    <li>Gelila</li>
+                    <li>Selam</li>
+                    <li>Yididya</li>
+                    <li>Makbel</li>
+                    <li>Selman</li>
+                    <li>Thunder</li>
+                    <li>Gashe</li>
+                    <li>yonas</li>
+                </ol>
+                 <hr size="4" color="black">
+                <a href="contact.html">My contact</a>
+                <hr size="4" color="orange">
+                <a href="hobbies.html">my hobbies</a>
+                <hr color="Brown" size="4">
+                <h3>My favorite car</h3>
+                <img src="Web development/HTML-personal-site/download.jpg" alt="Amanuel's favorite car">
+                <var>Ferrari</var>
+                <hr noshade size="4" color="Brown">
+                <table border="10 pixel">
+                    <thead>
+                        <tr>
+                            <th> Name</th>
+                            <th>grade</th>
+                            <th>age</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Amanuel</td>
+                                <td>9A</td>
+                                <td>14</td>
+                        </tr>
+                        <tr>
+                            <td>Yididya</td>
+                            <td>9D</td>
+                            <td>15</td>
+                        </tr>
+                        <tr>
+                            <td>Selam</td>
+                            <td>9A</td>
+                            <td>14</td>
+                        </tr>
+                        <tr>
+                            <td>Gelila</td>
+                            <td>9B</td>
+                            <td>13</td>
+                        </tr>
+                    </tbody>
+                    <tfoot>
+                        <tr>
+                            <td>Makbel</td>
+                            <td>9C</td>
+                            <td>14</td>
+                        </tr>
+                    </tfoot>
+                </table>
+                <hr noshade color="green" size="4">
+                <h3>Skills</h3>
+                 <table>
+                    <tr>
+                        <td>bike</td>
+                        <td>🌟🌟🌟</td>
+                    </tr>
+                    <tr>
+                        <td>education</td>
+                        <td>🌟🌟🌟🌟🌟</td>
+                    </tr>
+                    <tr>
+                        <td>pullup</td>
+                        <td>🌟🌟🌟🌟</td>
+                    </tr>
+                    <tr>
+                        <td>skate board</td>
+                        <td>🌟</td>
+                    </tr>
+                </table>  
+             </body>
+
+    </html>
